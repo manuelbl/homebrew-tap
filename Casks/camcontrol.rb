@@ -1,6 +1,6 @@
 cask "camcontrol" do
-  version "1.0.0"
-  sha256 "33fc9838632fc8d89cd11b88fb430d2e2d4bbe79a326d60b23c798606ee6caeb"
+  version "1.0.1"
+  sha256 "ba88a770d9534225419b2a69d254157daa6a7711d7a421971ec864b374e6b306"
 
   url "https://github.com/manuelbl/CamControl/releases/download/v#{version}/CamControl-#{version}.dmg"
   name "CamControl"
